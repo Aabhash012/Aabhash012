@@ -10,7 +10,11 @@ Not only that I also enjoy participating in competitive programming competitions
 
 
 ✉️  You can contact me at aabhash.aakash@gmail.com
+
+
 🧠  I'm dedicated to continuous learning, actively expanding my knowledge in Data Structures, Algorithms, and backend development. Every day, I strive        to learn something new, improving my skills and staying up-to-date with the latest technologies.
+
+
 🤝  I'm open to collaborating on innovative, impactful and  challenging projects.
 
 
@@ -18,7 +22,7 @@ Not only that I also enjoy participating in competitive programming competitions
 Skills:
 
 
-Java SpringBoot SQL PostgreSQL GraphQL MongoDB C/C++ Python Postman Git GitHub
+Java C/C++ Python SpringBoot SQL PostgreSQL MongoDB GraphQL Postman Git GitHub.
 <!--
 **Aabhash012/Aabhash012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
