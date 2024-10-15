@@ -22,7 +22,7 @@ Not only that I also enjoy participating in competitive programming competitions
 Skills:
 
 
-Java C/C++ Python SpringBoot SQL PostgreSQL MongoDB GraphQL Postman Git GitHub.
+Java, C/C++, Python, SpringBoot, SQL, PostgreSQL, MongoDB, GraphQL, Postman, Git, GitHub.
 <!--
 **Aabhash012/Aabhash012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
