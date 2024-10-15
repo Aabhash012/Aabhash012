@@ -1,4 +1,4 @@
-## Hi there my name is Aabhash👋
+## Hey, I’m Aabhash👋
 
 ## Backend Developer and Competitive Programmer
 
